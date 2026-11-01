@@ -2,9 +2,14 @@
 
 <h1 align="center"> JOÃO EDUARDO </h1>
 
+https://github.com/user-attachments/assets/9fd82c25-5332-4e14-a711-8773ca95ab89
 
 <p align="center">
-  <img src="ezgif-28206a271e4f2ad8-ezgif.com-resize-video.mp4" alt="banner" width="100%">
+  
+
+
+
+
 </p>
 
 <h3 align="center">
