@@ -53,7 +53,7 @@ Technologys
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaoeduardonunes/">
-    <img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logoColor=black" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logoColor=black" alt="LinkedIn">
   </a>
   <a href="mailto:joaoeduardonunes153@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
