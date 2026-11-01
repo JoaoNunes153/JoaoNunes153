@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/9fd82c25-5332-4e14-a711-8773ca95ab89
       <p>My goal is to build a career within these areas of focus, while continuously exploring and learning new technologies.</p>
     </td>
     <td width="40%" align="center">
-      <img src="download (1).gif" alt="about me" width="100%">
+      <img src="aboutme.gif" alt="about me" width="100%">
     </td>
   </tr>
 </table>
