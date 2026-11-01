@@ -35,7 +35,7 @@
 
 <hr>
 
-Technologys
+Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
