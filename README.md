@@ -2,7 +2,7 @@
 
 <h1 align="center"> JOÃO EDUARDO </h1>
 
-https://github.com/user-attachments/assets/9fd82c25-5332-4e14-a711-8773ca95ab89
+<img src="06a6e1a7e0ca6e40674858b7805b2df1.jpg" alt="banner" width='100%'>
 
 <p align="center">
   
