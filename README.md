@@ -2,7 +2,7 @@
 
 <h1 align="center"> JOÃO EDUARDO </h1>
 
-<img src="06a6e1a7e0ca6e40674858b7805b2df1.jpg" alt="banner" width='100%'>
+<img src="ilul5ni6goyg1.png" alt="banner" width='100%'>
 
 <p align="center">
   
